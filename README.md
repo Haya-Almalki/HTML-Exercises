@@ -1,7 +1,8 @@
 # HTML-Exercises
 # Exerciss 1
-> Create a page of the website in HTML, by following this image.
-## Table of Contents
+>> Create a page of the website in HTML, by following this points.
+
+## Requairement:
 * icon for the website page.
 * change website title.
 * but the page is live on the server.
